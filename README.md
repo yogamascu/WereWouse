@@ -1,6 +1,7 @@
 ![Header](./docs/header.png)
 
 ## About
+This a capstone 1 project PWD-Jogja JC-DSC03
 
 WereWouse application was released in Q2 2024 and developed by Unpretentinous.Inc. Assisting small-sized bussiness owners especially to those whose engaged in inventory management, this then becomes our motivation for the develoyment of this application. We would like to show small-scale business owners that they could definitley keep their inventory with simple interface yet impeccable. Overall, the WereWouse utilizes four functions that such as;
 
@@ -9,7 +10,7 @@ WereWouse application was released in Q2 2024 and developed by Unpretentinous.In
 3. **Delete stock**, WereWouse provides high mobility to remove items that you do not need or have expired.
 4. **Purchase**, WereWouse provides an experience for customers to purchase and pay for any item from anywhere at any time.
 
-Sepcifically for the try out of WereWouse app, a houeware called: Maju-Depo has been volunteered for this project, hence, the app using mock data that has been personalized to suit Maju-Depo.
+Sepcifically for the try out WereWouse app, a fictional warehouse/store called: Maju-Depo has been volunteered for this project, hence, the app using mock data that has been personalized to suit Maju-Depo.
 
 ## Installation
 
